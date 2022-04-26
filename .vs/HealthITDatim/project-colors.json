@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c860b7a5-4e9f-481d-941a-d8f9b8442f6e": {
+      "ProjectGuid": "c860b7a5-4e9f-481d-941a-d8f9b8442f6e",
+      "DisplayName": "HealthITDatim",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
