@@ -12948,11 +12948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Masterspace\\Documents\\projects\\HealthITDatim\\HealthITDatim.csproj",
+      "projectUniqueName": "C:\\Users\\Masterspace\\Documents\\projects\\HealITProjects\\HealthITDatim\\HealthITDatim.csproj",
       "projectName": "HealthITDatim",
-      "projectPath": "c:\\Users\\Masterspace\\Documents\\projects\\HealthITDatim\\HealthITDatim.csproj",
+      "projectPath": "C:\\Users\\Masterspace\\Documents\\projects\\HealITProjects\\HealthITDatim\\HealthITDatim.csproj",
       "packagesPath": "C:\\Users\\Masterspace\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Masterspace\\Documents\\projects\\HealthITDatim\\obj\\",
+      "outputPath": "C:\\Users\\Masterspace\\Documents\\projects\\HealITProjects\\HealthITDatim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Masterspace\\AppData\\Roaming\\NuGet\\NuGet.Config",

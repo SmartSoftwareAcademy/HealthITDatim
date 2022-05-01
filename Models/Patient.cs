@@ -11,6 +11,6 @@ namespace HealthITDatim.Models
         public string PatientDiagnosis { get; set;}
         public string HomeCounty { get; set; }
         public int delete_status  { get; set; }
-        public int status { get; set; }
+        public string status { get; set; }
     }
 }
